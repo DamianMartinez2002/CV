@@ -1,6 +1,6 @@
-# arasgungore.github.io
+# DamianMartinez2002.githu.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://github.com/DamianMartinez2002).
 
 
 
@@ -14,7 +14,7 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Damian Aguirre Martinez**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@daguirre](https://www.linkedin.com/in/aguirre-martinez-damian-28973a2bb/)
+* GitHub: [@daguirre](https://github.com/DamianMartinez2002)
