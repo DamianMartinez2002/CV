@@ -16,5 +16,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Damian Aguirre Martinez**
 
-* LinkedIn: [@](https://www.linkedin.com/in/aguirre-martinez-damian-28973a2bb/)
-* GitHub: [@](https://github.com/DamianMartinez2002)
+* LinkedIn: [@Linkedin](https://www.linkedin.com/in/aguirre-martinez-damian-28973a2bb/)
+* GitHub: [@GitHub](https://github.com/DamianMartinez2002)
